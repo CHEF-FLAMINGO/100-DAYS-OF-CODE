@@ -1,3 +1,7 @@
 ## Day 1-5 (Merged)
-#### - Practiced Pyton basics: variables, loops, conditions, and math logic.
-#### - Focused on consistency over perfection.
+### Covered:
+#### - Variables and print
+#### - Math Operations
+#### - Lists and loops
+#### - Conditionals
+### Goal: Build Consistency and confidence.
