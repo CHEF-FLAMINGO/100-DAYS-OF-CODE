@@ -13,4 +13,5 @@
 #### - Small wins count
 
 ## Progress Log
-#### - Day 1-5: Python foundation (Merged) ✅
+#### - Day 1-5: Python Foundation (Merged) ✅
+#### - Day 6-10: SQL Foundation( data manipulation, queries, joins)
