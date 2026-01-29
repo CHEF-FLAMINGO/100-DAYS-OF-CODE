@@ -275,4 +275,5 @@ FROM
 commodity, avg(price) as avg_price, RANK() 
 OVER (PARTITION BY admin1 ORDER BY avg(price) DESC) 
 as price_rank FROM wfp_food_prices_nga WHERE date > '2024-01-01'
+
 group by admin1, commodity) AS RANKED_TABLE WHERE PRICE_RANK =1;
