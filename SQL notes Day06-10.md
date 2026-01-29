@@ -19,6 +19,11 @@
 ### - calculated monthly average price trends.
 ### - Learned difference between price range and price change over time.
 
+## Day 10 - Comparative and insigt queries.
+### - Price comparisons Using WHERE and IN 
+### - Extracted insights 
+### - Comparison between the market and the prices across time periods.
+
 ## Key lessons
 ### - Always verify exact text values in categorical columns.
 ### - Time Based analysis requires date-aware logic.
